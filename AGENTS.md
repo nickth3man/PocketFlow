@@ -1,8 +1,4 @@
----
-description: Guidelines for using PocketFlow, Agentic Coding
-globs: **/*.py
-alwaysApply: true
----
+
 # DOCUMENTATION FIRST POLICY
 
 **CRITICAL INSTRUCTION**: When implementing a Pocket Flow app:
